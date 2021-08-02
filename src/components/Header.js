@@ -10,7 +10,7 @@ function Header() {
 
         <div className="flex justify-around items-center pr-36 pt-16">
           <img className="pr-10" src={search} alt="search"></img>
-          <span className="pr-10">Sign in</span>
+          <span className="pr-10 hover:underline">Sign in</span>
           <GetStarted />
         </div>
 

@@ -7,7 +7,8 @@ module.exports = {
         primary: '#D6586C'
       },
       backgroundImage: theme => ({
-        'gradient': "url('assets/Background.png')"
+        'gradient': "url('assets/Background.png')",
+        'snippet': "url('assets/snippet.png')"
       })
     },
   },
